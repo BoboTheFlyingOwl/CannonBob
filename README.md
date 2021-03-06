@@ -1,0 +1,2 @@
+# CannonBob
+Laboratorio: Sistemi Embedded
